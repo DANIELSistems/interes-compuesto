@@ -15,6 +15,11 @@ while (C<=d):
     N=N + 1
 
 #output
+
+print("capital inicial:" + str (d / 2))
+
 print("Los meses serian: " + str(N))
+
+print("el total de su capital seria: " + str(C))
 
 #FIN
