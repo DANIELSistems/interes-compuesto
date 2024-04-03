@@ -20,6 +20,4 @@ print("capital inicial:" + str (d / 2))
 
 print("Los meses serian: " + str(N))
 
-print("el total de su capital seria: " + str(C))
-
-#FIN
+print("el total de su capital seria
